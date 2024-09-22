@@ -1,4 +1,4 @@
-// @ts-ignore
+// @ts-nocheck
 
 
 // import { SignedIn, SignedOut, } from "@clerk/nextjs";
